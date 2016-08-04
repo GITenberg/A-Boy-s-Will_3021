@@ -1,0 +1,34 @@
+_repo: A-Boy-s-Will_3021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frost, Robert
+    alias: Frost, Robert Lee
+    birthdate: 1874
+    deathdate: 1963
+    gutenberg_agent_id: '1091'
+    url: http://www.gutenberg.org/2009/agents/1091
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Frost
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Into my own -- Ghost house -- My November guest -- Love and a question
+  -- A late walk -- Stars -- Storm fear -- Wind and window flower -- To the thawing
+  wind -- A prayer in spring -- Flower-gathering -- Rose pogonias -- Asking for roses
+  -- Waiting afield at dusk -- In a vale -- A dream pang -- In neglect -- The vantage
+  point -- Mowing -- Going for water -- Revelation -- The trial by existence -- In
+  equal sacrifice -- The tuft of flowers -- Spoils of the dead -- Pan with us -- The
+  demiurge's laugh -- Now close the windows -- A line-storm song -- October -- My
+  butterfly -- Reluctance.
+title: A Boy's Will
+url: http://www.gutenberg.org/ebooks/3021
